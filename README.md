@@ -44,7 +44,7 @@ You can now access the server at http://localhost:8000
 
 **TL;DR command list**
 
-    git clone git clone https://github.com/rizalord/skill-test-msib-fswd-arkatama.git
+    git clone https://github.com/rizalord/skill-test-msib-fswd-arkatama.git
     cd skill-test-msib-fswd-arkatama
     composer install
     cp .env.example .env
